@@ -1,5 +1,6 @@
+#this is multistage docker file
 FROM maven as build
-MAINTAINER sarat.e99@gmail.com Sarat Chandra E
+MAINTAINER scsharath2@gmail.com
 
 
 WORKDIR /app
